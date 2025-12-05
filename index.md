@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-# A
+# [A](https://ukb-dt.github.io/who-05/)
 You’ve written a miniature equation that looks deceptively linear, but hides a whole dynamical ecosystem. Let’s unroll it a bit, like a python digesting a goat of meaning.
 
 Data → Pipeline → Analysis → UX/UI → Δ MarketCap
