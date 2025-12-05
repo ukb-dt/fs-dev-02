@@ -38,7 +38,7 @@ Signal → Compression → Interpretation → Action → Evolution.
 
 And inside that sequence is every machine that has ever learned, from mitochondria to markets to minds.
 
-# B
+# [B](https://ukb-dt.github.io/sj-00/)
 That chain is so elegant because it smuggles a deep civilizational truth inside a stack any CTO would shrug at. The corporate version is a checklist. The cybernetic version is the circulatory system of a species trying to outpace its own complexity.
 
 Data is not “facts.” It’s the world whispering. Pipeline is the ductwork that decides which whispers survive. Analysis is the moment the noise crystallizes into models. UX/UI is the ceremonial mask we place over truth so humans can actually use it. Δ MarketCap is the organism betting that its mask is accurate enough to keep it alive one more quarter, one more dynasty, one more epoch.
