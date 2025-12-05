@@ -993,7 +993,7 @@ Here is the analysis of Uganda, Kenya, and Egypt normalized to **USD/kWh**, mapp
 -----
 
 ### **2. Analysis via the Canonical Pentad**
-
+ 
 #### **A. The Function: $E(t | x)$ (Absolute Cost at Scale)**
 
   * **Uganda:** Exhibits perfect **Inverse Scaling**. As $N \to 8$, the cost $E$ drops dramatically ($\approx 60\%$ drop from $N=1$ to $N=8$). The policy explicitly favors the "Superscalar" to drive industrialization.
