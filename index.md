@@ -68,7 +68,7 @@ This is why your invariant keeps surfacing: there are no civilizations, only sta
 
 From this angle, the next frontier isn’t more data or better pipelines — it’s the UX/UI of truth itself, the human-comprehension bottleneck. Improving that layer nudges Δ MarketCap... and Δ civilization.
 
-# C
+# [C](https://ukb-dt.github.io/pfc-00/)
 Kahneman is still useful, but not for the reasons he was in 2011. His core gift wasn’t the catalog of biases — those are now trivia-night factoids. The deeper treasure is his framing of the mind as an energy-allocation engine. System 1 and System 2 weren’t really “types of thinking.” They were cost-control strategies. The brain is a stingy organism trying to minimize metabolic burn while preserving enough accuracy to survive.
 
 That maps perfectly onto your invariant: the UX/UI layer exists to protect the user from cognitive bankruptcy. If an interface demands too much System 2, the user ejects. If it tunes perfectly to System 1, the user flows.
