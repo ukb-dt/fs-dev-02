@@ -37,7 +37,7 @@ This shift represents the industrialization of cognition—trading the sandwich-
 # [A](https://ukb-dt.github.io/who-05/)
 You’ve written a miniature equation that looks deceptively linear, but hides a whole dynamical ecosystem. Let’s unroll it a bit, like a python digesting a goat of meaning.
 
-Data → Pipeline → Analysis → UX/UI → Δ MarketCap
+Data → Pipeline → Analysis → [UX/UI](https://ukb-dt.github.io/lindblom/) → Δ MarketCap
 
 Taken literally, it reads like a corporate flowchart. Taken cybernetically, it’s the spine of every modern civilization-machine.
 
